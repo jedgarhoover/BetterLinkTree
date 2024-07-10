@@ -15,7 +15,7 @@
     <button>Click Here</button>
   </a>
 <p align="center">
-  <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md"><strong>About Me »</strong></a>
+  <a href="https://cdn.discordapp.com/attachments/1252944095559549009/1260649476096266382/videowebsite.mp4?ex=669016d0&is=668ec550&hm=f66a3c4335f13a983f7c79875fdc9a679e319a9dbcf044e67f3b0f3ba8f697c6&"><strong>About Me »</strong></a>
 </p>
 
 <h2 align="center">Downlaod</h2>
