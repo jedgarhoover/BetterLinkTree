@@ -11,17 +11,9 @@
   
   <img src="https://github.com/jedgarhoover/BetterLinkTree/assets/175116833/adc565c8-0b1f-4ef2-be9c-da4a497d854b" alt="Another Image">
 <p align="center">See Video Preview ??</p>
-  <script>
-    function downloadVideo() {
-      var videoUrl = "https://raw.githubusercontent.com/jedgarhoover/BetterLinkTree/main/videowebsite.mp4";
-      var fileName = "videowebsite.mp4";
-      
-      var link = document.createElement("a");
-      link.href = videoUrl;
-      link.download = fileName;
-      link.click();
-    }
-  </script
+  <a href="https://raw.githubusercontent.com/jedgarhoover/BetterLinkTree/main/videowebsite.mp4" download="videowebsite.mp4">
+    <button>Click Here</button>
+  </a>
 <p align="center">
   <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md"><strong>About Me »</strong></a>
 </p>
