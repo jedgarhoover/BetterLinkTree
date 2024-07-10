@@ -1,9 +1,5 @@
-# BetterLinkTree
-This is a website I made and I put it in open source 🗿
-
-
-
-![image](https://github.com/jedgarhoover/BetterLinkTree/assets/175116833/2ef3b7d6-826c-498d-9672-b48142335b88)
+<h2 align="center">BetterLinkTree</h2>
+** is a website I made and I put it in open source 🗿**
 <a name="readme-top"></a>
 
 <p align="center">
@@ -16,6 +12,7 @@ This is a website I made and I put it in open source 🗿
     This is a website I made and I put it in open source 
     <br />
     <a href="https://github.com/jedgarhoover/BetterLinkTree"><strong>Preview »</strong></a>
+    ![image](https://github.com/jedgarhoover/BetterLinkTree/assets/175116833/2ef3b7d6-826c-498d-9672-b48142335b88)
   </p>
 </p>
 
