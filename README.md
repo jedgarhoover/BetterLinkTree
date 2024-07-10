@@ -10,8 +10,7 @@
   <br>
   
   <img src="https://github.com/jedgarhoover/BetterLinkTree/assets/175116833/adc565c8-0b1f-4ef2-be9c-da4a497d854b" alt="Another Image">
-  
-  <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md" align="center"><strong>About Me »</strong></a>
+  <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md"><strong>About Me »</strong></a>
 </p>
 
 <h2 align="center">Downlaod</h2>
