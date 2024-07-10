@@ -14,3 +14,10 @@
   <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md"><strong>About Me »</strong></a>
 </p>
 
+<h2 align="center">Downlaod</h2>
+
+```bash
+  git clone https://github.com/jedgarhoover/BetterLinkTree.git
+```
+
+
