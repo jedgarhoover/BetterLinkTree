@@ -15,7 +15,7 @@
     <button>Click Here</button>
   </a>
 <p align="center">
-  <a href="https://github.com/jedgarhoover/jedgarhoover)"><strong>About Me »</strong></a>
+  <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md"><strong>About Me »</strong></a>
 </p>
 
 <h2 align="center">Downlaod</h2>
