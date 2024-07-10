@@ -10,6 +10,9 @@
   <br>
   
   <img src="https://github.com/jedgarhoover/BetterLinkTree/assets/175116833/adc565c8-0b1f-4ef2-be9c-da4a497d854b" alt="Another Image">
+  <video width="640" height="360" controls>
+  <source src="https://github.com/jedgarhoover/BetterLinkTree/blob/main/videowebsite.mp4" type="video/mp4">
+</video>
   <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md"><strong>About Me »</strong></a>
 </p>
 
