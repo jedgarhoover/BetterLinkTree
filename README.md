@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<h2 align="center">Better LinkTree</h2>
-
 <p align="center">
   <strong>This is a website I made and I put it in open source. / Better LinkTree is a website I made and I put it in open source 🗿</strong>
   <br>
