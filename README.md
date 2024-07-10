@@ -10,6 +10,7 @@
 <p align="center">
   <strong>This is a website I made and I put it in open source. / Better LinkTree is a website I made and I put it in open source 🗿</strong>
   <br>
+  
   <img src="https://github.com/jedgarhoover/BetterLinkTree/assets/175116833/adc565c8-0b1f-4ef2-be9c-da4a497d854b" alt="Another Image">
   <a href="https://github.com/jedgarhoover/jedgarhoover/blob/main/README.md"><strong>About Me »</strong></a>
 </p>
